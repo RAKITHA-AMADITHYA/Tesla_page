@@ -1,0 +1,124 @@
+.body{
+    margin: 0%;
+}
+
+.d1{
+  width:100vw ;
+  height: 5vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Gotham SSm";
+  font-size: 12px;
+  color: rgb(71, 71, 71);
+  letter-spacing: 0.3px;
+  
+  
+}
+
+.d2{
+   width: 100vw;
+   height: 95vh;
+   background-image: url("background.jpeg");
+   background-size: cover;
+   background-position-y: -102px;
+   
+
+
+}
+.a1{
+
+    color: rgb(71, 71, 71);
+    
+}
+.i{
+width: 100px; 
+margin-top: 13px;
+margin-left: 25px;
+
+
+}
+.list1{
+
+    list-style: none;
+    margin-left: 330px;
+    margin-top: -20px;
+}
+
+.item1{
+
+    display: inline;
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: "Gotham SSm";
+    font-weight: 500;
+    margin-top: 200px;
+    
+}
+
+.list2{
+
+    margin-left: 1100px;
+    margin-top: -34px;
+    list-style: none;
+}
+.d3{
+
+   font-family: "Gotham SSm";
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    margin-top: 75px;
+    
+}
+
+.d4{
+    font-family: "Gotham SSm";
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+  
+
+}
+
+.d5{
+    display: flex;
+    justify-content: center;
+    margin-top: 350px;
+
+
+}
+.btn1{
+width: 240px;
+height: 38px;
+color: white;
+background-color: rgb(84, 81, 81);
+font-family: "Gotham SSm";
+font-size: 0.9rem;
+font-weight: 450;
+border: none;
+border-radius: 2px;
+cursor: pointer;
+
+}
+
+.btn2{
+    width: 240px;
+    height: 38px;
+    color: black;
+    background-color: white;
+    font-family: "Gotham SSm";
+    font-size: 0.9rem;
+    font-weight: 450;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 8px;
+    
+
+}
+
+
